@@ -12,7 +12,7 @@
 	<artifactId>factorial</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>factorial</name>
-	<description>Votes in reference of total voters </description>
+	<description>Calculates the factorial value of the arguments </description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
